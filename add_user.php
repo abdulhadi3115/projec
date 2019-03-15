@@ -528,7 +528,7 @@
                         <div id="Tables" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
                                 <li><a href="normal-table.html"<>Tambah Nilai</a>
-                                </li>
+                 s               </li>
                                 <li><a href="data-table.html">Hasil Garjas</a>
                                 </li>
                                 <li><a href="data-table.html">Hasil Variabel</a>
